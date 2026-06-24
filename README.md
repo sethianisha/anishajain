@@ -18,11 +18,12 @@ I sit at the intersection of **brand strategy**, **partnerships**, and **data** 
 
 | Project | What it is |
 |---|---|
-| [Progressive Insurance Brand Lift Analysis](#) | Control vs. exposed analysis across 9 brand metrics — found +0.22 awareness lift, weak trust signals, recommended emotional storytelling fix |
-| [Airbnb Revenue Regression](#) | Identified data labeling bias (Wifi/Wi-Fi/wifi) skewing results — rebuilt variable, found true revenue drivers |
-| [GLIDE SF Digital Marketing Audit](#) | SEO, UX, social & email audit for major SF nonprofit — surfaced Google Ad Grants opportunity, built UTM framework |
-| [Costco Behavioral Economics Experiment](#) | Field experiment on helpfulness under reward conditions — candy > cash (3.47 vs 2.93) |
-| [Vino Mood App](https://vino-mood-vibes.lovable.app) | Mood-based wine discovery app I built on Lovable — grounded in my wine consumer ethnography research |
+| [Progressive Insurance Brand Lift Analysis](https://drive.google.com/file/d/1bAB3hW3UAHKhCoxVEJPEj2z6CpLTf3DM/view?usp=drive_link) | Control vs. exposed analysis across 9 brand metrics — found +0.22 awareness lift, weak trust signals, recommended emotional storytelling fix |
+| [Airbnb Revenue Regression](https://drive.google.com/file/d/1vJn4Nw84xy9wDrT9tVzFk-suYvTBrloT/view?usp=drive_link) | Identified data labeling bias (Wifi/Wi-Fi/wifi) skewing results — rebuilt variable, found true revenue drivers |
+| [GLIDE SF Digital Marketing Audit](https://drive.google.com/file/d/1_FUIaEf7-HoiPIzOeYBD5ggzRKdj-Nzt/view?usp=drive_link) | SEO, UX, social & email audit for major SF nonprofit — surfaced Google Ad Grants opportunity, built UTM framework |
+| [Costco Behavioral Economics Experiment](https://drive.google.com/file/d/1da0hIibAffmfrwXagGi-v7BowyQzqFfQ/view?usp=drive_link) | Field experiment on helpfulness under reward conditions — candy > cash (3.47 vs 2.93) |
+| [Vino Mood App](https://vino-mood-vibes.lovable.app) | Mood-based wine discovery app built on Lovable — grounded in wine consumer ethnography research |
+| [All Projects Folder](https://drive.google.com/drive/folders/1a5N-T347gjwcjj_KrKLA4bFmRTmWQdpn?usp=drive_link) | Full portfolio of academic and consulting work |
 
 ---
 
@@ -37,7 +38,7 @@ I sit at the intersection of **brand strategy**, **partnerships**, and **data** 
 
 ## 📬 Let's Connect
 
-- 🌐 [Portfolio]([https://linkedin.com/in/anishajain](https://app.notion.com/p/I-ve-closed-1-4M-in-brand-partnerships-from-cold-outreach-to-activation-760174e141478394b99781da48c6d372?source=copy_link))
+- 🌐 [Portfolio](https://drive.google.com/drive/folders/1a5N-T347gjwcjj_KrKLA4bFmRTmWQdpn?usp=drive_link)
 - 💼 [LinkedIn](https://linkedin.com/in/anishajain)
 - 📧 sethianisha05@gmail.com
 - 📍 San Francisco, CA — Open to brand partnerships, field marketing & strategic partnerships roles

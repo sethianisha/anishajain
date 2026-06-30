@@ -1,5 +1,5 @@
 # Hi, I'm Anisha Jain 👋
-### Brand Partnerships · Field Marketing · Strategic Partnerships | Open to roles in SF & Remote
+### Brand Partnerships · Field Marketing · Strategic Partnerships | Open to roles in USA & Remote
 📍 San Francisco, CA · STEM OPT authorized · no sponsorship required through 2028
 
 ---
@@ -13,7 +13,6 @@ Brand Partnerships & Marketing professional with 7+ years closing deals across s
 I sit at the intersection of **brand strategy**, **partnerships**, and **data** — I close deals and measure what happens after.
 
 - **$1.4M+ in total contract value** across 20+ brand partnerships
-- Zero missed go-live dates across all campaigns
 - Verticals: Sports · Fashion · Entertainment · CPG · Tech
 
 ---
@@ -46,4 +45,4 @@ I sit at the intersection of **brand strategy**, **partnerships**, and **data** 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anisha-jain-046593122/) · linkedin.com/in/anisha-jain-046593122
 - 📁 [All Projects](https://drive.google.com/drive/folders/1a5N-T347gjwcjj_KrKLA4bFmRTmWQdpn?usp=drive_link)
 - 📧 sethianisha05@gmail.com
-- 📍 San Francisco, CA — Open to brand partnerships, field marketing & strategic partnerships roles
+- 📍 San Francisco, CA — Open to business development, brand marketing & partnerships, field marketing & strategic partnerships roles
